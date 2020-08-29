@@ -2,6 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 
+//这是修改版本1.0
 int main(int argc, char *argv[])
 {
 
